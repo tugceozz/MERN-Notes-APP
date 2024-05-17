@@ -32,3 +32,5 @@
 ![8](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/bf3e863d-7181-48be-a4a2-695edaa6a5ff)
 
 ![9](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/5b9e1163-0be3-4824-a93c-fefcb18aeaec)
+
+![10](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/23663542-447f-498d-93a9-464f220ef681)
