@@ -12,6 +12,23 @@
 
 ## Tech Stack 💻
 
-- **Frontend:** React.js, HTML, CSS, Axios
+- **Frontend:** React.js, React Router, HTML, CSS, Axios
   
 - **Backend:** Node.js, Expressjs, MongoDB, Mongoose, JWT (JSON Web Token)
+
+
+![1](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/afe100ef-5c6f-4eea-8727-56e34229bd46)
+
+![7](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/8bcadf26-54b6-46c0-bee0-4f05d898d6b6)
+
+![3](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/c6f642c9-d729-4a78-afee-8331f3b7e0d8)
+
+![6](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/81d1ac29-7f53-4bb1-ad0d-1d218b7430ce)
+
+![4](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/055b11f3-c014-4d0e-90d6-0c8d9de64956)
+
+![5](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/a1c104a6-1bd1-47b9-9a1b-c4869da3b78d)
+
+![8](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/bf3e863d-7181-48be-a4a2-695edaa6a5ff)
+
+![9](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/5b9e1163-0be3-4824-a93c-fefcb18aeaec)
