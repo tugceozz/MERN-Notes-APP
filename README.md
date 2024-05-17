@@ -16,6 +16,8 @@
   
 - **Backend:** Node.js, Expressjs, MongoDB, Mongoose, JWT (JSON Web Token)
 
+##
+##
 
 ![1](https://github.com/tugceozz/MERN-Notes-App/assets/114016610/afe100ef-5c6f-4eea-8727-56e34229bd46)
 
